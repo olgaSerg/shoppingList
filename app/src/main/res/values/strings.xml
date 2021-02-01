@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingList 1.0</string>
+    <string name="delete_all">Очистить список</string>
+    <string name="save_list">Сохранить список </string>
+</resources>

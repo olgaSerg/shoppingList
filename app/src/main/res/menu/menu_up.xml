@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".NewListActivity">
+
+    <item
+        android:id="@+id/change_name"
+        android:orderInCategory="100"
+        android:title="Переименовать список"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/delete_all"
+        android:orderInCategory="100"
+        android:title="@string/delete_all"
+        app:showAsAction="never"/>
+
+</menu>
