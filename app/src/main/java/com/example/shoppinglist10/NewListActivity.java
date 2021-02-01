@@ -76,8 +76,7 @@ public class NewListActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.list);
         listView.setAdapter(productAdapter);
 
-
-//        registerForContextMenu(listView);
+        registerForContextMenu(listView);
 
         EditText productEditText = findViewById(R.id.newProduct);
         final Button newProductButton = findViewById(R.id.newProductButton);

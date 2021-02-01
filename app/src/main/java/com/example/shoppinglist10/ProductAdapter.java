@@ -28,9 +28,6 @@ public class ProductAdapter extends ArrayAdapter<Product> {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.product_item, parent, false);
         }
 
-
-        ((NewListActivity)getContext()).registerForContextMenu(convertView);
-
         TextView tvName = convertView.findViewById(R.id.product_name);
 
         tvName.setText(product.name);
