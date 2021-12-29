@@ -1,4 +1,4 @@
-![](https://github.com/olgaSerg/shoppingList/blob/main/shopping_list.gif)
+![ShoppingList app](https://github.com/olgaSerg/shoppingList/blob/main/shopping_list.gif)
 # Shopping List
 The app is used to organize purchases.
 # Features:
