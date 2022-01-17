@@ -7,6 +7,7 @@ The app is used to organize purchases.
 - setting a mark on purchased goods from the list
 
 # Technologies used:
-Java
-Room
-AlertDialog
+- Java
+- Room
+- ListView
+- AlertDialog
